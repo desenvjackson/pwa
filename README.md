@@ -2,7 +2,7 @@
 react/pwa/server
 
 Executar com: yarn start 
-porta 4000
+
 
 
 curl -H "Authorization: bearer token" -X POST -d " \
